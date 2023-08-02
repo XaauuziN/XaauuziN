@@ -13,4 +13,4 @@
 
 
 
-![XaauuziN Status](https://github-readme-stats.vercel.app/api?username=xaauuzin&show_icons=true&theme=github-dark)
+![XaauuziN Status](https://github-readme-stats.vercel.app/api?username=xaauuzin&show_icons=true&theme=github_dark)
