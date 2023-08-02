@@ -14,4 +14,4 @@
 
 
 ![XaauuziN Status](https://github-readme-stats.vercel.app/api?username=xaauuzin&show_icons=true&theme=github_dark)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xaauuzin&layout=compactshowicons=true&theme=github_dark)](https://github.com/xaauuzin/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xaauuzin&show icons=true&theme=github_dark)](https://github.com/xaauuzin/github-readme-stats)
