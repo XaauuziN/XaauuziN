@@ -13,5 +13,5 @@
 
 
 
-![XaauuziN Status](https://github-readme-stats.vercel.app/api?username=xaauuzin&show_icons=true&theme=github_dark)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xaauuzin&showicons=true&theme=github_dark&layoutcompact)](https://github.com/xaauuzin/github-readme-stats)
+![XaauuziN Status](https://github-readme-stats.vercel.app/api?username=xaauuzin&layout=compact&langs_count=7&icons=true&theme=github_dark)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xaauuzin&showicons=true&theme=github_dark)](https://github.com/xaauuzin/github-readme-stats)
