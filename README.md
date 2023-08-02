@@ -12,4 +12,4 @@
  <a href="#" rel="nofollow"><img src="https://camo.githubusercontent.com/c873e86c083c071c7fd068a17ab549b763fad7088681d6d831f68b32a4305b3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Portifolio" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+
