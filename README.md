@@ -7,6 +7,8 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Website em DESENVOLVIMENTO</li>
 </ul>
 
+<img src="https://cdn.discordapp.com/attachments/706703254817603604/1141394795592429588/sinal-de-menos.png" style="max-width: 150%">
+
 <i class="fa-brands fa-whatsapp" style="color: #ffffff;"></i>
 <a href="https://api.whatsapp.com/send/?phone=5512997935579&amp;text&amp;type=phone_number&amp;app_absent=0" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/706703254817603604/1141387760603775096/whatsapp.png" alt="WhatsApp" target:_blank data-canonical-src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white](https://img.icons8.com/?size=10&id=a8unpNrefMCC&format=png)https://img.icons8.com/?size=512&id=a8unpNrefMCC&format=png" style="height: 45px;"></a>
 <a href="https://www.linkedin.com/in/gabriel-felicio-a1a398281/" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/706703254817603604/1141389052684271687/linkedin.png" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="height: 45px;"></a>
