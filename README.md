@@ -1,4 +1,7 @@
+![Ícone de Minus](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/minus.svg)
+
 <h1>Olá, sou o Gabriel, e é um grande prazer conhecê los</h1>
+
 
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Cursando Programação</li>
@@ -7,7 +10,7 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Website em DESENVOLVIMENTO</li>
 </ul>
 
-:heavy_minus_sign:
+<i class="fa-solid fa-minus" style="color: #FF5733; font-size: 24px; position: relative; top: 5px;"></i>
 
 <i class="fa-brands fa-whatsapp" style="color: #ffffff;"></i>
 <a href="https://api.whatsapp.com/send/?phone=5512997935579&amp;text&amp;type=phone_number&amp;app_absent=0" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/706703254817603604/1141387760603775096/whatsapp.png" alt="WhatsApp" target:_blank data-canonical-src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white](https://img.icons8.com/?size=10&id=a8unpNrefMCC&format=png)https://img.icons8.com/?size=512&id=a8unpNrefMCC&format=png" style="height: 45px;"></a>
