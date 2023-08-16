@@ -1,4 +1,4 @@
-<h1>Olá, sou o Gabriel, e é um grande prazer conhecê los</h1>
+<h1>Olá, sou o <strong>Gabriel</strong>. É um grande prazer conhecê los!!</h1>
 
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Cursando Programação</li>
