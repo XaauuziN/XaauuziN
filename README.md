@@ -7,7 +7,7 @@
 </ul>
 
 <i class="fa-brands fa-whatsapp" style="color: #ffffff;"></i>
-<a href="https://api.whatsapp.com/send/?phone=5512997935579&amp;text&amp;type=phone_number&amp;app_absent=0" rel="nofollow"> <img src="https://drive.google.com/file/d/1KveRFWW7UFCOc-kQHstxCtM0XjqmLcZm/view" target="_blank" alt="Whatsapp" style="height: 45px;"></a>
+<a href="https://api.whatsapp.com/send/?phone=5512997935579&amp;text&amp;type=phone_number&amp;app_absent=0" rel="nofollow"> <img src="https://drive.google.com/file/d/1KveRFWW7UFCOc-kQHstxCtM0XjqmLcZm/view"></a>
 <a href="https://www.linkedin.com/in/GabrielLFelicio/" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/706703254817603604/1141389052684271687/linkedin.png" target="_blank" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="height: 45px;"></a>
 <a href="mailto:gabrielfelilemes@gmail.com"><img src="https://cdn.discordapp.com/attachments/706703254817603604/1141390195720196126/gmail.png" target="_blank" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="height: 45px;"></a>
  <a href="https://xaauuzin.github.io/Portifolio/index.html" target="_blank" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/706703254817603604/1141391359081713715/www.png" alt="Portifolio" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" style="height: 45px;"></a>
