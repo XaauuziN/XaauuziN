@@ -25,6 +25,6 @@
   <img align="center" alt="HTML5" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img align="center" alt="CSS" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img align="center" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img align="center" alt="My SQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
  </div>
