@@ -13,9 +13,9 @@
 
 <a href="https://www.linkedin.com/in/GabrielLFelicio/" rel="nofollow"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 
-<a href="mailto:gabrielfelilemes@gmail.com"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
+<a href="mailto:gabrielfelilemes@gmail.com"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
 
-<a href="https://xaauuzin.github.io/Portifolio/index.html" target="_blank" rel="nofollow"><img width="48" height="48" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio"/></a>
+<a href="https://xaauuzin.github.io/Portifolio/index.html" target="_blank" rel="nofollow"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio"/></a>
 </div>
 
 <div>
