@@ -9,7 +9,7 @@
 </div>
 
 <div>
-<a href="https://api.whatsapp.com/send/?phone=5512997935579&amp;text&amp;type=phone_number&amp;app_absent=0" rel="nofollow"></a>
+<a href="https://api.whatsapp.com/send/?phone=5512997935579&amp;text&amp;type=phone_number&amp;app_absent=0" rel="nofollow"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
 <a href="https://www.linkedin.com/in/GabrielLFelicio/" rel="nofollow"></a>
 <a href="mailto:gabrielfelilemes@gmail.com"</a>
 <a href="https://xaauuzin.github.io/Portifolio/index.html" target="_blank" rel="nofollow"></a>
