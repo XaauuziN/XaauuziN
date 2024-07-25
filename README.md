@@ -20,6 +20,8 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaauuziN&theme=dark&show_icons=true&hide_border=false&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaauuziN&layout=compact&langs_count=7&theme=github_dark" style="max-width: 100%"> 
 </div>
 <div style="display: inline_block"><br/>
+  
+  <img align="center" alt="HTML5" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
