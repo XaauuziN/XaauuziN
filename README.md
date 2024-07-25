@@ -15,11 +15,10 @@
 <a href="https://xaauuzin.github.io/Portifolio/index.html" target="_blank" rel="nofollow"></a>
 </div>
 
-
+<div>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=XaauuziN&theme=dark&show_icons=true&hide_border=false&count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=xaauuzin&show_icons=true&theme=github_dark&include_all_commits=truecount_private=true" style="max-width: 100%;">
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaauuziN&theme=dark&show_icons=true&hide_border=false&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaauuziN&layout=compact&langs_count=7&theme=github_dark" style="max-width: 100%"> 
-
+</div>
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
