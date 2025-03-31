@@ -1,4 +1,4 @@
-<h1>Olá, sou o <strong>Gabriel</strong>. É um grande prazer conhecê-los!!</h1>
+<h1>Hello, my name is Gabriel. And welcome to my profile!!!</h1>
 
 <div>
 <ul dir="auto">
