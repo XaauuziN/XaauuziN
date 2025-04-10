@@ -1,3 +1,4 @@
+<header><img src="https://capsule-render.vercel.app/api?type=waving&color=3cecd8&reversal=true&descAlign=0&section=header"></header>
 <h1>Hello, my name is Gabriel. And welcome to my profile!!!</h1>
 
 <div>
