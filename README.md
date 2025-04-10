@@ -30,3 +30,6 @@
   <img align="center" alt="Python" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img align="center" alt="My SQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
  </div>
+
+ 
+<footer><img src="https://capsule-render.vercel.app/api?type=waving&color=3cecd8&reversal=true&descAlign=0&section=footer"></footer>
