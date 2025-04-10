@@ -30,7 +30,8 @@
   <img align="center" alt="Python" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img align="center" alt="My SQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
  </div>
-
+<br>
+<br>
  <img src="https://profile-counter.glitch.me/%7BXaaauuziN%7D/count.svg">
 
  
