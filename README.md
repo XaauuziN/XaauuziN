@@ -31,5 +31,7 @@
   <img align="center" alt="My SQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
  </div>
 
+ <img src="https://profile-counter.glitch.me/%7BXaaauuziN%7D/count.svg">
+
  
 <footer><img src="https://capsule-render.vercel.app/api?type=waving&color=3cecd8&reversal=true&descAlign=0&section=footer"></footer>
