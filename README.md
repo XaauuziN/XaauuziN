@@ -1,5 +1,5 @@
 <header><img src="https://capsule-render.vercel.app/api?type=waving&color=3cecd8&reversal=true&descAlign=0&section=header"></header>
-<h1>Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Gabriel. And welcome to my profile!!!</h1>
+<h1>Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="width: 25px;">, I'm Gabriel. And welcome to my profile!!!</h1>
 
 <div>
 <ul dir="auto">
